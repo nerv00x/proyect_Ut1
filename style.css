@@ -1,0 +1,57 @@
+*,div{
+    margin: 0;
+    padding: 0;
+}
+
+li a{
+    display: inline;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.barranav {
+    border: 1px solid violet;
+    background-color: #920870 
+}
+li.barranave {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: solid;
+  }
+
+img {
+    width: 260px;
+    height: 100px;
+    margin: 0px;
+    padding:0px;
+}
+
+body{
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.slaider-inicio{
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
+ 
+.inicio{
+    width: 49%;
+    position: absolute;
+    top: 50%;
+    right: 0;
+}
+
+
+.div-slaider{
+    width: 50%;
+}
+
